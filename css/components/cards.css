@@ -1,0 +1,36 @@
+
+.cards {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.card-apply {
+  background-color: white;
+  box-shadow: 0 0 5px rgb(230, 230, 230);
+  text-align: center;
+  width: 200px;
+  height: 250px;
+  padding: 20px;
+  border: 1px solid (230, 230, 230);
+}
+
+.card-learn {
+  background-color: white;
+  box-shadow: 0 0 5px rgb(230, 230, 230);
+  text-align: center;
+  width: 200px;
+  height: 250px;
+  padding: 20px;
+  border: 1px solid (230, 230, 230);
+}
+
+.card-design {
+  background-color: white;
+  box-shadow: 0 0 5px rgb(230, 230, 230);
+  text-align: center;
+  width: 200px;
+  height: 250px;
+  padding: 20px;
+  border: 1px solid (230, 230, 230);
+}

@@ -1,0 +1,40 @@
+.btn-apply {
+  display: inline-block;
+  background-color: #75cd3e;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+
+.btn-apply:hover {
+  display: inline-block;
+  background-color: #ce3568;
+  padding: 16px 24px;
+  border-radius: 50px;
+  color: white;
+  transition: .7s;
+}
+
+.btn-apply-apply {
+  display: inline-block;
+  background-color: #96dd6a;
+  padding: 8px 24px;
+  border-radius: 50px;
+  color: white;
+}
+
+.btn-apply-learn {
+  display: inline-block;
+  background-color: #96dd6a;
+  padding: 8px 24px;
+  border-radius: 50px;
+  color: white;
+}
+
+.btn-apply-design {
+  display: inline-block;
+  background-color: #96dd6a;
+  padding: 8px 24px;
+  border-radius: 50px;
+  color: white;
+}
